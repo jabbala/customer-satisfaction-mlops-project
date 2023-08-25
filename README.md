@@ -1,1 +1,1 @@
-# ecommerce-customer-satisfaction-mlops-project
+# MLOps - Customer Satisfaction Project 
